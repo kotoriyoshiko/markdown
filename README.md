@@ -3,16 +3,18 @@
 
 我的爱好是
 
-* 唱
-* 跳
-* rap
-* 篮球
+* 养猫
 
 我的前女友是
 
 1. 花谱
 2. 理芽
 3. 异世界情绪
+
+一行代码
+
+    var x=1
+    console.log(x)
 
 ```javascript
 console.log('hello')
